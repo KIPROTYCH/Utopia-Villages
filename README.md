@@ -16,7 +16,7 @@ https://github.com/KIPROTYCH/Utopia-Villages.git
 
 ## Description
 
-The project aims to implement a mini web app using React to practice essential concepts such as components, props, state, events, and data fetching. The web app is designed to display a list of bots and provide additional functionalities like enlisting and releasing bots for a user's army.
+This project, "Utopia Villages App," enhances real estate functionality with user authentication, advanced search, interactive map, and virtual tours. It includes a mortgage calculator, responsive design, property comparison, neighborhood info, real-time updates, and user reviews. These features create a comprehensive and appealing real estate web app, ensuring a seamless user experience for potential buyers.
 
 ### Key Features:
 
@@ -68,7 +68,7 @@ The content of this repository is licensed under the MIT License.
 
 ## Conclusion
 
-This mini web app showcases a practical implementation of React concepts, allowing users to interact with a list of bots and build their own bot army. By integrating components, props, state, events, and data fetching, the project demonstrates a fundamental understanding of React's core features, paving the way for more complex and feature-rich applications in the future.
+This project showcases a practical implementation of React concepts, offering a real estate web app experience named "Utopia Villages." By integrating user authentication, advanced search, interactive maps, virtual tours, and more, the app provides an immersive and functional journey for potential homebuyers. It sets a standard of excellence, empowering users to find their dream homes effortlessly with a solid foundation in React's core features for future enhancements.
 
 ## Author's Info:
 1. Slack/Mattermost - Yegon.
